@@ -112,8 +112,7 @@ The platform combines a real-time physics engine, modular experiment components,
                          │ Users • Rooms             │
                          │ Experiments • Metadata    │
                          └───────────────────────────┘
-
-```markdown
+```
 ## 🛠️ Technology Stack
 
 | Layer | Technologies |
@@ -150,7 +149,7 @@ Experiment
           ├── Ground
           └── Walls
 
-```markdown
+```
 ## 📈 Analytics Pipeline
 
 ```text
@@ -167,7 +166,7 @@ Recharts Visualization
 
 ### Agent Middleware
 
-```markdown
+```
 ## 🤖 Agent Middleware
 
 The agent layer provides an abstraction between high-level user instructions and laboratory operations.
@@ -186,7 +185,7 @@ Physics Engine
 Updated Experiment State
 
 
-```markdown
+```
 ## 🧪 Example Experiments
 
 Virtual Lab supports experiments such as:
@@ -225,7 +224,7 @@ Complex experiments can be constructed by combining multiple components and cons
 - Experiment construction and persistence
 - Real-time analytics and visualization
 - Multi-user collaborative rooms
-- Real-time state synchronization
+- Real-time state synchronisation
 - Experiment library
 - AI/agent middleware
 - Full-stack web architecture
